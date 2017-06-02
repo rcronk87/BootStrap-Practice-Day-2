@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.main-content {
+  background-image: url(ing/matrix_bgrd.jpg);
+}
+
+.col-lg-4 {
+  opacity: .85;
+}
+
+.card-img-top {
+  width: 30%;
+  align-self: center;
+  opacity: 1;
+
+}
+
+.php {
+  width: 55%;
+}
+
+.card {
+  margin-bottom: 10%;
+}
+
+.card-title {
+  text-align: center;
+}
